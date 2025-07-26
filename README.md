@@ -1,0 +1,1 @@
+# Segmenta-o-de-Arboriza-o-Urbana-com-Baixa-Complexidade-Potencial-Alternativa-ao-Deep-FSL
